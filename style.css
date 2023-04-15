@@ -1,0 +1,32 @@
+html
+{
+    height: 100%
+}
+body
+{
+    background: linear-gradient(#c4f8ff, #ffffff)
+}
+h1
+{
+    font-family: 'Titan One', cursive;
+    color: red;
+    font-weight: 50%;
+}
+input
+{
+    border-style: line;
+    border-color: grey;
+    border-radius: 100px;
+}
+button
+{
+    font-family: 'Oswald', sans-serif;
+}
+label
+{
+    font-family: 'Oswald', sans-serif;
+}
+h3
+{
+    font-family: 'Oswald', sans-serif;
+}
